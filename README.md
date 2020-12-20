@@ -15,7 +15,9 @@ UML での ER 図練習
 > @enduml
 > \```
 
-- あとは同梱の er.md を参照
+- カーディナリティなどの記法は同梱の er.md を参照
+- github で見る場合は下記 chrome プラグインを入れるとレンダリングしてくれる
+- https://chrome.google.com/webstore/detail/pegmatite/jegkfbnfbfnohncpcfcimepibmhlkldo/related
 
 ## 参考 URL
 
